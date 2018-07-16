@@ -397,7 +397,7 @@ export default {
         limit: 'Limit reached ({{limit}} items max).',
         loading: 'Loading...',
         minLength: 'Min. Length',
-        months: ['Январь', 'Февраль', '', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+        months: ['Январь', 'Февраль', 'Март', 'Апрель', 'Май', 'Июнь', 'Июль', 'Август', 'Сентябрь', 'Октябрь', 'Ноябрь', 'Декабрь'],
         notSelected: 'Nothing Selected',
         required: 'Required',
         search: 'Search'
