@@ -393,11 +393,11 @@ export default {
     translations (lang) {
       lang = lang || 'en'
       let text = {
-        daysOfWeek: ['Su', 'Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa'],
+        daysOfWeek: ['Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб', 'Вс'],
         limit: 'Limit reached ({{limit}} items max).',
         loading: 'Loading...',
         minLength: 'Min. Length',
-        months: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+        months: ['Январь', 'Февраль', '', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
         notSelected: 'Nothing Selected',
         required: 'Required',
         search: 'Search'
